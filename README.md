@@ -1,5 +1,5 @@
 # Grupo Telegram soporte: https://web.telegram.org/#/im?p=@beelinkking
-# Fuente: htts://andtvban.github.io/andtv
+# Fuente: https://andtvban.github.io/andtv/
 
 # MATRIX
 ![img](https://i.imgur.com/PfZUhyc.png)
